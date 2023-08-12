@@ -9,7 +9,6 @@ class Validator {
         'data-required',
         'data-equal',
         'data-password-validate',
-          
       ]
     }
   
